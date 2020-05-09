@@ -25,6 +25,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 * [Rin Oliver](https://twitter.com/kiran_oliver) (Co-Producer)
 * [POP](https://twitter.com/popsysdig)
 * [Justin Garrison](https://twitter.com/rothgar)
+* [Steven Terrana](https://twitter.com/steven_terrana)
 
 ## Follow and Subscribe to our Youtube channel / Twitter
 * Twitter: https://twitter.com/popcastpop
