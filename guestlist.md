@@ -2,7 +2,6 @@
 
 * Liz Fong-Jones  --- SCHEDULED!
 * Maya Kaczorowski -- SCHEDULED!
-* "Godfather" Joe Beda -- TOP SECRET
 * "Godfather" Craig Mcluckie
 * Brian Liles -- SCHEDULED!
 * Rob Szumski -- SCHEDULED!
