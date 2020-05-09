@@ -21,3 +21,7 @@ you can clone and add questions for this weeks guest.  i will usually promote th
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 twitter: https://twitter.com/popcastpop
+
+## Team Members
+* [Rin Oliver](https://twitter.com/kiran_oliver)
+* [POP](https://twitter.com/popsysdig) 
