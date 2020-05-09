@@ -16,17 +16,16 @@ Please subscribe and like!
 *WOULD LOVE TO SEE FOLKS CONTRIBUTE FOLKS THEY WOULD LIKE TO SEE!* I made a list of folks id like to talk to.  if you want to be on the POP feel free to DM me (Twitter below)
 
 ## Questions you would like me to [ask guests](questions.md) 
-you can clone and add questions for this weeks guest.  i will usually promote this on Twitter first the monday before the recording.
+You can clone and add questions for this weeks guest.  i will usually promote this on Twitter first the monday before the recording.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## Follow and Subscribe to our Youtube channel / Twitter
-* Twitter: https://twitter.com/popcastpop
-* YouTube: http://youtube.com/user/tonyladdie
-
 
 ## [Contributors](contributors.md) 
 * [Rin Oliver](https://twitter.com/kiran_oliver) (Co-Producer)
 * [POP](https://twitter.com/popsysdig)
 * [Justin Garrison](https://twitter.com/rothgar)
+
+## Follow and Subscribe to our Youtube channel / Twitter
+* Twitter: https://twitter.com/popcastpop
+* YouTube: http://youtube.com/user/tonyladdie
