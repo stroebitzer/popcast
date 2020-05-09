@@ -23,5 +23,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 twitter: https://twitter.com/popcastpop
 
 ## Team Members
-* [Rin Oliver](https://twitter.com/kiran_oliver)
+* [Rin Oliver](https://twitter.com/kiran_oliver) (Co-Producer)
 * [POP](https://twitter.com/popsysdig) 
