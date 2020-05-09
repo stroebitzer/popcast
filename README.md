@@ -3,7 +3,7 @@ The POPcast with Dan POP! Join host Dan “Pop” Papandrea as he has conversati
 through technology and new ways of thinking. Disclaimer: Purely for entertainment/informational purposes.
 
 # POPCAST's MISSION
-The POPCAST's mission is connect technical and thought leaders with the community and the audience that goes BEYOND JUST CODE.
+The POPCAST's mission is to connect technical and thought leaders with the community and the audience that goes BEYOND JUST CODE.
 
 ## SHOW
 * watch(YouTube): http://youtube.com/user/tonyladdie
