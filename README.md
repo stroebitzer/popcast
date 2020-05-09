@@ -6,12 +6,12 @@ through technology and new ways of thinking. Disclaimer: Purely for entertainmen
 Mission is connect technical and thought leaders with the community and the audience that goes BEYOND JUST CODE.
 
 ## SHOW
-watch(YouTube): http://youtube.com/user/tonyladdie
-listen (Apple PODCAST and others): http://popcast-d9f7b6dc.simplecast.com
+* watch(YouTube): http://youtube.com/user/tonyladdie
+* listen (Apple PODCAST and others): http://popcast-d9f7b6dc.simplecast.com
 
 Please subscribe and like!
 
-## Future Guests *GET LIST*
+## Future Guests [get list](guestlist.md)
 *WOULD LOVE TO SEE FOLKS CONTRIBUTE FOLKS THEY WOULD LIKE TO SEE!* I made a list of folks id like to talk to.
 
 ## Contributing
