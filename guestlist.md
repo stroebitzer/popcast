@@ -1,19 +1,19 @@
 # Guests you would like to see
 
-* Liz Fong-Jones
-* Maya Kaczorowski
-* "Godfather" Joe Beda
+* Liz Fong-Jones  --- SCHEDULED!
+* Maya Kaczorowski -- SCHEDULED!
+* "Godfather" Joe Beda -- TOP SECRET
 * "Godfather" Craig Mcluckie
-* Brian Liles
-* Rob Szumski 
-* Ian Coldwater
-* Erica Parker
-* Larry Pruss
+* Brian Liles -- SCHEDULED!
+* Rob Szumski -- SCHEDULED!
+* Ian Coldwater -- SCHEDULED!
+* Erica Parker -- SCHEDULED!
+* Larry Pruss  -- SCHEDULED!
 * Julia Evans
 * Idit Levine 
 * Brandon Phillips
 * Alex Polvi
-* Chris Lentricchia 
+* Chris Lentricchia -- SCHEDULED!
 * Gareth Rushgrove
 * Paul Burt
 * Charity Majors
