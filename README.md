@@ -6,8 +6,8 @@ through technology and new ways of thinking. Disclaimer: Purely for entertainmen
 The POPCAST's mission is to connect technical and thought leaders with the community and the audience that goes BEYOND JUST CODE.
 
 ## SHOW
-* watch(YouTube): http://youtube.com/user/tonyladdie
-* listen (Apple PODCAST and others): http://popcast-d9f7b6dc.simplecast.com
+* Watch(YouTube): http://youtube.com/user/tonyladdie
+* Listen (Apple PODCAST and others): http://popcast-d9f7b6dc.simplecast.com
 
 Please subscribe and like!
 
