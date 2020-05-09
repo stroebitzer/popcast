@@ -28,3 +28,17 @@
 * @LachlanEvenson
 * @threadwaste
 * @steven_terrana && @joshboyd 
+* Katy Farmer
+* Perry Eising
+* Leena Haque
+* Chloe Condon
+* Ashley Willis (McNamara)
+* Dawn Parzych
+* Heidi Waterhouse
+* Paris Pittman
+* Aimee Ukasick
+* Kaslin Fields
+* Molly Crowther
+* Seth McCombs
+* Nicole Hubbard
+* Lynn Cyrin
