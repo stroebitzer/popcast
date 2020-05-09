@@ -16,4 +16,13 @@
 * Chris Lentricchia 
 * Gareth Rushgrove
 * Paul Burt
-* Jessie Frazelle
+* Charity Majors
+* Swarna Podila
+* Silvia Botros
+* Nicole Forsgren
+* Corey Quinn
+* Alice Goldfuss
+* Bridget Kromhout
+* @jaicesd
+* @theamycode
+* Emily Freeman
