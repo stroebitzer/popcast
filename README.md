@@ -29,4 +29,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## [Contributors](contributors.md) 
 * [Rin Oliver](https://twitter.com/kiran_oliver) (Co-Producer)
 * [POP](https://twitter.com/popsysdig)
+* @rothgar
 
