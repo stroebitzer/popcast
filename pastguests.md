@@ -12,5 +12,5 @@
 * Jim Walker
 * Kareen Walsh (WEEKEND WELLNESS)
 
-* [Watch their shows here](bit.ly/35MXfte)
-* [Listen to their shows here](bit.ly/3fC7sxd)
+* [Watch their shows here](http://bit.ly/35MXfte)
+* [Listen to their shows here](http://bit.ly/3fC7sxd)
