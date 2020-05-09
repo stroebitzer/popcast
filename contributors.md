@@ -1,4 +1,4 @@
 ### Contributors page
-@danpopsd
-@rothgar
-@celanthe
+* @danpopsd
+* @rothgar
+* @celanthe
