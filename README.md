@@ -1,5 +1,5 @@
 ![Logo Image](popcastGIT.png)
-# POPCAST
+### POPCAST
 The POPcast with Dan POP! Join host Dan “Pop” Papandrea as he has conversations with the fascinating people that are driving technology and thought leadership. We cover their personal stories and their journeys including their wins and losses to deep dive into what it is like to lead
 through technology and new ways of thinking. Disclaimer: Purely for entertainment/informational purposes.
 
@@ -21,7 +21,7 @@ you can clone and add questions for this weeks guest.  i will usually promote th
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-##Follow and Subscribe to our Youtube channel
+## Follow and Subscribe to our Youtube channel
 Twitter: https://twitter.com/popcastpop
 
 
