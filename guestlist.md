@@ -42,3 +42,4 @@
 * Seth McCombs
 * Nicole Hubbard
 * Lynn Cyrin
+* Ken Kocienda (original iphone designer)
