@@ -43,3 +43,7 @@
 * Nicole Hubbard
 * Lynn Cyrin
 * Ken Kocienda (original iphone designer)
+* Tracy Miranda @tracymiranda
+* Tracy Ragan @TracyRagan
+* Jacqueline Salinas @salinas_jacq
+* Tara Hernandez @tequilarista
