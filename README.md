@@ -25,10 +25,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## [Contributors](contributors.md) 
 * [Rin Oliver](https://twitter.com/kiran_oliver) (Co-Producer)
-* [POP](https://twitter.com/popsysdig)
+* [POP](https://twitter.com/popsysdig) (Producer, Host)
 * [Justin Garrison](https://twitter.com/rothgar)
 * [Steven Terrana](https://twitter.com/steven_terrana)
-* [Marky Jackson](@markyjackson-taulia)
+* [Marky Jackson](https://twitter.com/markyjackson5)
 
 ## Follow and Subscribe to our Youtube channel / Twitter
 * Twitter: https://twitter.com/popcastpop
