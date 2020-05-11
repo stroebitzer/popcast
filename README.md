@@ -28,6 +28,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 * [POP](https://twitter.com/popsysdig)
 * [Justin Garrison](https://twitter.com/rothgar)
 * [Steven Terrana](https://twitter.com/steven_terrana)
+* [Marky Jackson](@markyjackson-taulia)
 
 ## Follow and Subscribe to our Youtube channel / Twitter
 * Twitter: https://twitter.com/popcastpop
