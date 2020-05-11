@@ -8,6 +8,7 @@
 * Ian Coldwater -- SCHEDULED!
 * Erica Parker -- SCHEDULED!
 * Larry Pruss  -- SCHEDULED!
+* David Egts
 * Julia Evans
 * Idit Levine 
 * Brandon Phillips
