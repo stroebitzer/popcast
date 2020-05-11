@@ -2,3 +2,5 @@
 * @danpopsd
 * @rothgar
 * @celanthe
+* @sterrana
+* @markyjackson_tulia
