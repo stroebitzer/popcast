@@ -11,6 +11,7 @@
 * Adam Clater
 * Jim Walker
 * Kareen Walsh (WEEKEND WELLNESS)
+* Brian "redbeard"
 
 * [Watch their shows here](http://bit.ly/35MXfte)
 * [Listen to their shows here](http://bit.ly/3fC7sxd)
