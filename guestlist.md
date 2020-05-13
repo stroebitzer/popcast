@@ -49,3 +49,4 @@
 * Tracy Ragan @TracyRagan
 * Jacqueline Salinas @salinas_jacq
 * Tara Hernandez @tequilarista
+* Sanders Van Vugt (https://www.sandervanvugt.com/)
