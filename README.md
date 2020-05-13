@@ -30,6 +30,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 * [Steven Terrana](https://twitter.com/steven_terrana)
 * [Marky Jackson](https://twitter.com/markyjackson5)
 * [Duffie Cooley](https://twitter.com/mauilion)
+* [Benedetto Lo Giudice](https://github.com/bennythejudge)
 
 ## Follow and Subscribe to our Youtube channel / Twitter
 * Twitter: https://twitter.com/popcastpop
