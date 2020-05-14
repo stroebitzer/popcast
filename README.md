@@ -24,13 +24,7 @@ You can clone and add questions for this weeks guest.  i will usually promote th
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## [Contributors](contributors.md) 
-* [Rin Oliver](https://twitter.com/kiran_oliver) (Co-Producer)
-* [POP](https://twitter.com/popsysdig) (Producer, Host)
-* [Justin Garrison](https://twitter.com/rothgar)
-* [Steven Terrana](https://twitter.com/steven_terrana)
-* [Marky Jackson](https://twitter.com/markyjackson5)
-* [Duffie Cooley](https://twitter.com/mauilion)
-* [Benedetto Lo Giudice](https://github.com/bennythejudge)
+This is the list of amazing contributors
 
 ## Follow and Subscribe to our Youtube channel / Twitter
 * Twitter: https://twitter.com/popcastpop
