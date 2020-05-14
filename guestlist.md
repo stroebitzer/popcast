@@ -15,7 +15,6 @@
 * Brandon Phillips
 * Alex Polvi
 * Chris Lentricchia -- SCHEDULED!
-* Gareth Rushgrove
 * Paul Burt
 * Charity Majors
 * Swarna Podila
