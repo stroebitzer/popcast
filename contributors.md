@@ -1,6 +1,8 @@
 ### Contributors page
-* @danpopsd
-* @rothgar
-* @celanthe
-* @sterrana
-* @markyjackson_tulia
+* [Rin Oliver](https://twitter.com/kiran_oliver) (Co-Producer)
+* [POP](https://twitter.com/popsysdig) (Producer, Host)
+* [Justin Garrison](https://twitter.com/rothgar)
+* [Steven Terrana](https://twitter.com/steven_terrana)
+* [Marky Jackson](https://twitter.com/markyjackson5)
+* [Duffie Cooley](https://twitter.com/mauilion)
+* [Benedetto Lo Giudice](https://github.com/bennythejudge)
