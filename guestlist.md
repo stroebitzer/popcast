@@ -2,7 +2,7 @@
 
 * Liz Fong-Jones  --- SCHEDULED!
 * Maya Kaczorowski -- SCHEDULED!
-* "Godfather" Craig Mcluckie
+* "Godfather" Craig Mcluckie SCHEDULED!
 * Brian Liles -- SCHEDULED!
 * Rob Szumski -- SCHEDULED!
 * Ian Coldwater -- SCHEDULED!
@@ -31,6 +31,7 @@
 * @steven_terrana && @joshboyd 
 * Katy Farmer
 * Perry Eising
+* "Godfather" Joe Beda SCHEDULED!
 * Leena Haque
 * Chloe Condon
 * Ashley Willis (McNamara)
