@@ -10,7 +10,6 @@
 * Larry Pruss  -- SCHEDULED!
 * David Egts
 * Ahmet alp balkan
-* Andy Randall 
 * Julia Evans
 * Idit Levine 
 * Brandon Phillips
@@ -51,3 +50,4 @@
 * Tara Hernandez @tequilarista
 * Sanders Van Vugt (https://www.sandervanvugt.com/)
 * Adrian Cockroft
+* Andy Randall 
