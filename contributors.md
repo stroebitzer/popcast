@@ -6,3 +6,4 @@
 * [Marky Jackson](https://twitter.com/markyjackson5)
 * [Duffie Cooley](https://twitter.com/mauilion)
 * [Benedetto Lo Giudice](https://github.com/bennythejudge)
+* [Andrew Randall](https://github.com/ahrkrak)
