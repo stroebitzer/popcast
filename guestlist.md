@@ -52,3 +52,4 @@
 * Sanders Van Vugt (https://www.sandervanvugt.com/)
 * Adrian Cockroft
 * Andy Randall 
+* Deepak Singh
