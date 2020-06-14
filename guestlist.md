@@ -3,9 +3,9 @@
 * Liz Fong-Jones  --- COMPLETE -- AIRDATE SOON!
 * Maya Kaczorowski --- COMPLETE -- AIRDATE SOON!
 * Brian Liles -- SCHEDULED!
-* Rob Szumski -- SCHEDULED!
+* Rob Szumski --- COMPLETE -- AIRDATE SOON!
 * Erica Parker -- SCHEDULED!
-* Larry Pruss  -- SCHEDULED!
+* Larry Pruss  --- COMPLETE -- AIRDATE SOON!
 * David Egts
 * Ahmet alp balkan
 * Julia Evans
