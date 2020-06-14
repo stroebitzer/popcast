@@ -15,6 +15,9 @@
 * Episode 14 - Justin Garrison (AWS) and Pawan Shankar (Sysdig)
 * Episode 15 - Alana Weinroth (WEEKEND WELLNESS)
 * LIVE STREAMANA 1 with Steven Terrana 
+* Episode 16 - Ian Coldwater
+* Episode 17 - Godfathers of Kubernetes Special (Brendan Burns)
+* Episode 18 - Godfathers of Kubernetes Special (Joe Beda and Craig McLuckie)
 
 * [Watch their shows here](http://bit.ly/35MXfte)
 * [Listen to their shows here](http://bit.ly/3fC7sxd)
