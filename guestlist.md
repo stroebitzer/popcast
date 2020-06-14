@@ -1,7 +1,7 @@
 # Guests you would like to see
 
-* Liz Fong-Jones  --- SCHEDULED!
-* Maya Kaczorowski -- SCHEDULED!
+* Liz Fong-Jones  --- COMPLETE -- AIRDATE SOON!
+* Maya Kaczorowski --- COMPLETE -- AIRDATE SOON!
 * Brian Liles -- SCHEDULED!
 * Rob Szumski -- SCHEDULED!
 * Erica Parker -- SCHEDULED!
@@ -12,9 +12,9 @@
 * Idit Levine 
 * Brandon Phillips
 * Alex Polvi
-* Chris Lentricchia -- SCHEDULED!
-* Paul Burt
-* Charity Majors
+* Chris Lentricchia --- COMPLETE -- AIRDATE SOON!
+* Paul Burt  -- SCHEDULED!
+* Charity Majors --- COMPLETE -- AIRDATE SOON!
 * Swarna Podila
 * Silvia Botros
 * Nicole Forsgren
@@ -24,7 +24,7 @@
 * @jaicesd
 * @theamycode
 * Emily Freeman
-* @LachlanEvenson
+* @LachlanEvenson --- COMPLETE -- AIRDATE SOON!
 * @threadwaste
 * Katy Farmer
 * Perry Eising
@@ -47,3 +47,4 @@
 * Adrian Cockroft
 * Andy Randall 
 * Deepak Singh
+* Priya (CNCF)
