@@ -2,10 +2,8 @@
 
 * Liz Fong-Jones  --- SCHEDULED!
 * Maya Kaczorowski -- SCHEDULED!
-* "Godfather" Craig Mcluckie SCHEDULED!
 * Brian Liles -- SCHEDULED!
 * Rob Szumski -- SCHEDULED!
-* Ian Coldwater -- SCHEDULED!
 * Erica Parker -- SCHEDULED!
 * Larry Pruss  -- SCHEDULED!
 * David Egts
@@ -28,10 +26,8 @@
 * Emily Freeman
 * @LachlanEvenson
 * @threadwaste
-* @steven_terrana && @joshboyd 
 * Katy Farmer
 * Perry Eising
-* "Godfather" Joe Beda SCHEDULED!
 * Leena Haque
 * Chloe Condon
 * Ashley Willis (McNamara)
@@ -41,10 +37,8 @@
 * Aimee Ukasick
 * Kaslin Fields
 * Molly Crowther
-* Seth McCombs
 * Nicole Hubbard
 * Lynn Cyrin
-* Ken Kocienda (original iphone designer)
 * Tracy Miranda @tracymiranda
 * Tracy Ragan @TracyRagan
 * Jacqueline Salinas @salinas_jacq
