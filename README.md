@@ -12,7 +12,7 @@ The POPCAST's mission is to connect technical and thought leaders with the commu
 Please subscribe and like!
 
 ## Future Guests [get list](guestlist.md)
-*WOULD LOVE TO SEE FOLKS CONTRIBUTE FOLKS THEY WOULD LIKE TO SEE!* I made a list of folks id like to talk to.  if you want to be on the POP feel free to DM me (Twitter below)
+*WOULD LOVE TO SEE FOLKS CONTRIBUTE FOLKS THEY WOULD LIKE TO SEE!* I made a list of folks id like to talk to.  if you want to be on the POP feel free to a DR on the guestlist.md
 
 ## [AMAZING POPCAST ALUMNI](pastguests.md) 
 Please note- that this list may or may not include @aclater as "amazing".  this is up to you the viewer or listener. 
