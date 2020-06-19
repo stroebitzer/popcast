@@ -18,6 +18,8 @@
 * Episode 16 - Ian Coldwater
 * Episode 17 - Godfathers of Kubernetes Special (Brendan Burns)
 * Episode 18 - Godfathers of Kubernetes Special (Joe Beda and Craig McLuckie)
+* Episode 19 - Dan Bentley (TILT)
+* Episode 20 - Bryan Liles (VMware)
 
 * [Watch their shows here](http://bit.ly/35MXfte)
 * [Listen to their shows here](http://bit.ly/3fC7sxd)
