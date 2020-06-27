@@ -20,6 +20,7 @@
 * Episode 18 - Godfathers of Kubernetes Special (Joe Beda and Craig McLuckie)
 * Episode 19 - Dan Bentley (TILT)
 * Episode 20 - Bryan Liles (VMware)
+* Episode 21 - Rob Szumski (Red Hat)
 
 * [Watch their shows here](http://bit.ly/35MXfte)
 * [Listen to their shows here](http://bit.ly/3fC7sxd)
