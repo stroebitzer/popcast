@@ -5,7 +5,7 @@
 * Brian Liles -- SCHEDULED!
 * Rob Szumski --- COMPLETE -- AIRDATE SOON!
 * Erica Parker -- SCHEDULED!
-* Larry Pruss  --- COMPLETE -- AIRDATE SOON!
+* Lenny Pruss 
 * David Egts
 * Ahmet alp balkan
 * Julia Evans
