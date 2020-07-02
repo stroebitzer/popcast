@@ -8,7 +8,6 @@
 * Lenny Pruss 
 * David Egts
 * Ahmet alp balkan
-* Julia Evans
 * Idit Levine 
 * Brandon Phillips
 * Alex Polvi
