@@ -45,4 +45,5 @@
 * Andy Randall 
 * Deepak Singh
 * Priya (CNCF)
-* Cheryl Hung (CNCF) 
+* Cheryl Hung (CNCF)
+* Werner Vogel
