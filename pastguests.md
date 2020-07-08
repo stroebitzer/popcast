@@ -21,6 +21,8 @@
 * Episode 19 - Dan Bentley (TILT)
 * Episode 20 - Bryan Liles (VMware)
 * Episode 21 - Rob Szumski (Red Hat)
+* Episode 22 - Armon Dadgar and Mitchell Hashimoto (Hashicorp)
+* Episode 23 - Maya Kaczorowski (Github)
 
 * [Watch their shows here](http://bit.ly/35MXfte)
 * [Listen to their shows here](http://bit.ly/3fC7sxd)
