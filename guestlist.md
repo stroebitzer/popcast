@@ -1,18 +1,16 @@
 # Guests you would like to see
 
 * Liz Fong-Jones  --- COMPLETE -- AIRDATE SOON!
-* Maya Kaczorowski --- COMPLETE -- AIRDATE SOON!
 * Brian Liles -- SCHEDULED!
-* Rob Szumski --- COMPLETE -- AIRDATE SOON!
 * Erica Parker -- SCHEDULED!
 * Lenny Pruss 
 * David Egts
-* Ahmet alp balkan
-* Idit Levine 
+* Ahmet alp balkan  --- COMPLETE -- AIRDATE SOON!
+* Idit Levine  -- SCHEDULED!
 * Brandon Phillips
 * Alex Polvi
 * Chris Lentricchia --- COMPLETE -- AIRDATE SOON!
-* Paul Burt  -- SCHEDULED!
+* Paul Burt  --  COMPLETE -- AIRDATE SOON!
 * Charity Majors --- COMPLETE -- AIRDATE SOON!
 * Swarna Podila
 * Silvia Botros
@@ -47,3 +45,4 @@
 * Andy Randall 
 * Deepak Singh
 * Priya (CNCF)
+* Cheryl Hung (CNCF) 
