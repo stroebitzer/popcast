@@ -11,8 +11,6 @@ The POPCAST's mission is to connect technical and thought leaders with the commu
 * Follow us on (Twitter): https://twitter.com/PopcastPop
 * Follow us on (Linkedin): https://www.linkedin.com/company/the-popcast-with-danpop
 
-Please subscribe and like!
-
 ## Future Guests [get list](guestlist.md)
 *WOULD LOVE TO SEE FOLKS CONTRIBUTE FOLKS THEY WOULD LIKE TO SEE!* I made a list of folks id like to talk to.  if you want to be on the POP feel free to a DR on the guestlist.md
 
