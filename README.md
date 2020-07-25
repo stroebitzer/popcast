@@ -5,9 +5,11 @@ The POPcast with Dan POP! Join host Dan "Pop" Papandrea as he has conversations 
 # POPCAST's MISSION
 The POPCAST's mission is to connect technical and thought leaders with the community and the audience that goes BEYOND JUST CODE.
 
-## SHOW
+## SHOW (Follow and Subscribe to our Youtube channel / Twitter!)
 * Watch  (YouTube): http://youtube.com/user/tonyladdie
 * Listen (Apple PODCAST and others): http://popcast-d9f7b6dc.simplecast.com
+* Follow us on (Twitter): https://twitter.com/PopcastPop
+* Follow us on (Linkedin): https://www.linkedin.com/company/the-popcast-with-danpop
 
 Please subscribe and like!
 
@@ -25,10 +27,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## [Contributors](contributors.md) 
 This is the list of amazing contributors
-
-## Follow and Subscribe to our Youtube channel / Twitter
-* Twitter: https://twitter.com/popcastpop
-* YouTube: http://youtube.com/user/tonyladdie
 
 # Sponsor the POPCAST!
 * If you're a company in the cloud native or devops space that would like an ad or sponsor a full episode of the POPCAST, please send a note to popcastsponsors @ gmail.com .  Portions of the profits post show expenses are donated to various charities that support the community and growth of individuals
