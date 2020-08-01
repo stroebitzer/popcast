@@ -27,5 +27,5 @@
 * Episode 25 - Liz Fong Jones (Honeycomb.io)
 * Episode 26 - Ashesh Badani (Red Hat)
 
-* [Watch their shows here](http://bit.ly/35MXfte)
-* [Listen to their shows here](http://bit.ly/3fC7sxd)
+* [Watch their shows here](http://bit.ly/3fC7sxd)
+* [Listen to their shows here](http://bit.ly/35MXfte)
