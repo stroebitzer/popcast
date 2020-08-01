@@ -23,6 +23,9 @@
 * Episode 21 - Rob Szumski (Red Hat)
 * Episode 22 - Armon Dadgar and Mitchell Hashimoto (Hashicorp)
 * Episode 23 - Maya Kaczorowski (Github)
+* Episode 24 - Ahmet Alp Balkan (Google)
+* Episode 25 - Liz Fong Jones (Honeycomb.io)
+* Episode 26 - Ashesh Badani (Red Hat)
 
 * [Watch their shows here](http://bit.ly/35MXfte)
 * [Listen to their shows here](http://bit.ly/3fC7sxd)
