@@ -26,6 +26,10 @@
 * Episode 24 - Ahmet Alp Balkan (Google)
 * Episode 25 - Liz Fong Jones (Honeycomb.io)
 * Episode 26 - Ashesh Badani (Red Hat)
+* Episode 27 - Charity Majors (Honeycomb.io)
+* Episode 28 - Idit Levine (Solo.io)
+* Episode 29 - Chris Kranz (Sysdig / Cards against Containers)
+* Episode 30 - Priyanka Sharma(CNCF)
 
 * [Watch their shows here](http://bit.ly/3fC7sxd)
 * [Listen to their shows here](http://bit.ly/35MXfte)
