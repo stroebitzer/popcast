@@ -1,5 +1,4 @@
 # Guests you would like to see
-* Lenny Pruss 
 * David Egts
 * Brandon Phillips
 * Alex Polvi
