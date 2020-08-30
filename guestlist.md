@@ -35,12 +35,11 @@
 * Deepak Singh
 * Werner Vogel
 * Stephanie Morillo [@radiomorillo](www.twitter.com/radiomorillo)
-Clare Liguori @clare_liguori
-Rob Szmuski @robszumski
-Jessie Frazelle @jessfraz
-Sebastien Goasguen @sebgoa
-Jérôme Petazzoni @jpetazzo
-Michael Hausenblas @mhausenblas
-Scott McCarty @fatherlinux
-David McKay @rawkode
-Diane Mueller @pythondj
+* Clare Liguori      @clare_liguori
+* Jessie Frazelle    @jessfraz
+* Sebastien Goasguen @sebgoa
+* Jérôme Petazzoni   @jpetazzo
+* Michael Hausenblas @mhausenblas
+* Scott McCarty      @fatherlinux
+* David McKay        @rawkode
+* Diane Mueller      @pythondj
