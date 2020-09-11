@@ -31,6 +31,8 @@
 * Episode 29 - Chris Kranz (Sysdig / Cards against Containers)
 * Episode 30 - Priyanka Sharma(CNCF)
 * Episode 31 - Lachlan Evenson (Microsoft Azure/Olive Garden)
+* Episode 32 - Gareth Rushgrove (Snyk)
+* Episode 33 - Cornelia Davis (Weaveworks)
 
 * [Watch their shows here](http://bit.ly/3fC7sxd)
 * [Listen to their shows here](http://bit.ly/35MXfte)
