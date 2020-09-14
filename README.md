@@ -6,7 +6,7 @@ The POPcast with Dan POP! Join host Dan "Pop" Papandrea as he has conversations 
 The POPCAST's mission is to connect technical and thought leaders with the community and the audience that goes BEYOND JUST CODE.
 
 ## SHOW (Follow and Subscribe to our Youtube channel / Twitter!)
-* Watch  (YouTube): http://youtube.com/user/tonyladdie
+* Watch  (YouTube): https://www.youtube.com/c/thepopcastpop
 * Listen (Apple PODCAST and others): http://popcast-d9f7b6dc.simplecast.com
 * Follow us on (Twitter): https://twitter.com/PopcastPop
 * Follow us on (Linkedin): https://www.linkedin.com/company/the-popcast-with-danpop
