@@ -29,5 +29,11 @@ This is the list of amazing contributors
 # Sponsor the POPCAST!
 * If you're a company in the cloud native or devops space that would like an ad or sponsor a full episode of the POPCAST, please send a note to popcastsponsors @ gmail.com .  Portions of the profits post show expenses are donated to various charities that support the community and growth of individuals
 
+# Past Sponsors
+* Solo.io
+* Kinvolk
+* Giant Swarm
+* Sysdig
+
 ## LEGAL DISCLAIMER
 THE POPCAST IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE POPCAST OR THE USE OR OTHER DEALING.  
