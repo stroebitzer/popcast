@@ -33,6 +33,8 @@
 * Episode 31 - Lachlan Evenson (Microsoft Azure/Olive Garden)
 * Episode 32 - Gareth Rushgrove (Snyk)
 * Episode 33 - Cornelia Davis (Weaveworks)
+* Episode 34 - Darren Shepherd (Rancher)
+* Episode 35 - Chris Kuhl (Kinvolk.io)
 
 * [Watch their shows here](http://bit.ly/3fC7sxd)
 * [Listen to their shows here](http://bit.ly/35MXfte)
