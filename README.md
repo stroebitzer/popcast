@@ -30,6 +30,7 @@ This is the list of amazing contributors
 * If you're a company in the cloud native or devops space that would like an ad or sponsor a full episode of the POPCAST, please send a note to popcastsponsors @ gmail.com .  Portions of the profits post show expenses are donated to various charities that support the community and growth of individuals
 
 # Past Sponsors
+* Cockroach Labs
 * Solo.io
 * Kinvolk
 * Giant Swarm
