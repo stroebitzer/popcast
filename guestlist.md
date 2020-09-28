@@ -39,7 +39,6 @@
 * Jessie Frazelle    @jessfraz
 * Sebastien Goasguen @sebgoa
 * Jérôme Petazzoni   @jpetazzo
-* Michael Hausenblas @mhausenblas
 * Scott McCarty      @fatherlinux
 * David McKay        @rawkode
 * Diane Mueller      @pythondj
