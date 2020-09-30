@@ -37,7 +37,7 @@ This is the list of amazing contributors
 * Sysdig
 
 
-# Who is POP? (popbio.png)
+# Who is POP? (!popbio.png)
 Dan "POP" Papandrea is the Field CTO for Sysdig, a cloud-native security and visibility platform and is a CKA (Certified Kubernetes Admistrator) 
 POP spends his days learning and contributing to the orchestration and container ecosystem as well as working with customers on understanding their unique environments and how Sysdig can help them with their end project goals. Prior to Sysdig, POP was a lead solution architect for Hewlett Packard Enterprise's Helion business unit as well as the Director of IT, Principal Solutions Architect, Product Manager at SS&C Technologies a multinational financial services solution company. POP is the host of the hit podcast The POPCAST by Dan POP which explores the leaders and creators and stories behind the code.
 
