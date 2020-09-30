@@ -36,5 +36,10 @@ This is the list of amazing contributors
 * Giant Swarm
 * Sysdig
 
+(popbio.png)
+# Who is POP?
+Dan "POP" Papandrea is the Field CTO for Sysdig, a cloud-native security and visibility platform and is a CKA (Certified Kubernetes Admistrator) 
+POP spends his days learning and contributing to the orchestration and container ecosystem as well as working with customers on understanding their unique environments and how Sysdig can help them with their end project goals. Prior to Sysdig, POP was a lead solution architect for Hewlett Packard Enterprise's Helion business unit as well as the Director of IT, Principal Solutions Architect, Product Manager at SS&C Technologies a multinational financial services solution company. POP is the host of the hit podcast The POPCAST by Dan POP which explores the leaders and creators and stories behind the code.
+
 ## LEGAL DISCLAIMER
 THE POPCAST IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE POPCAST OR THE USE OR OTHER DEALING.  
