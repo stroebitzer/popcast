@@ -35,6 +35,9 @@
 * Episode 33 - Cornelia Davis (Weaveworks)
 * Episode 34 - Darren Shepherd (Rancher)
 * Episode 35 - Chris Kuhl (Kinvolk.io)
+* Episode 36 - Liz Rice (Aqua Security)
+* Episode 37 - Lenny Pruss (Amplify Partners)
+* Episode 38 - Chris Lentricchia (SUSE)
 
 * [Watch their shows here](http://bit.ly/3fC7sxd)
 * [Listen to their shows here](http://bit.ly/35MXfte)
