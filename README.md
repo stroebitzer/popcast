@@ -35,12 +35,13 @@ Plans Include
   * Sponsored/Affliliate Active episodes
   * Annual
 
-# Past Sponsors
+# Current (Past) Sponsors
 * Cockroach Labs
 * Solo.io
 * Kinvolk
 * Giant Swarm
 * Sysdig
+* Tremolo Security
 
 
 # [Who is Dan POP?](https://github.com/danpopSD/popcast/blob/master/popbio.png)
