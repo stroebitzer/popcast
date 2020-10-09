@@ -27,7 +27,13 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This is the list of amazing contributors
 
 # Sponsor the POPCAST!
-* If you're a company in the cloud native or devops space that would like an ad or sponsor a full episode of the POPCAST, please send a note to popcastsponsors @ gmail.com .  Portions of the profits post show expenses are donated to various charities that support the community and growth of individuals
+* If you're a company in the cloud native or devops space that would like an ad or sponsor a full episode of the POPCAST, please send a note to popcastsponsors @ gmail.com .  Portions of the profits post show expenses are donated to various charities that support the community and growth of individuals.
+
+Plans Include
+  * Single Ad's
+  * Monthly
+  * Sponsored/Affliliate Active episodes
+  * Annual
 
 # Past Sponsors
 * Cockroach Labs
