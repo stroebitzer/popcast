@@ -42,6 +42,8 @@ Plans Include
 * Giant Swarm
 * Sysdig
 * Tremolo Security
+* Code Fresh
+* Carbon Relay
 
 
 # [Who is Dan POP?](https://github.com/danpopSD/popcast/blob/master/popbio.png)
