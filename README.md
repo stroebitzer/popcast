@@ -43,7 +43,7 @@ Plans Include
 * Sysdig
 * Tremolo Security
 * Code Fresh
-* Carbon Relay
+* StormForge (formerly Carbon Relay)
 
 
 # [Who is Dan POP?](https://github.com/danpopSD/popcast/blob/master/popbio.png)
