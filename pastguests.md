@@ -1,43 +1,54 @@
 ### AMAZING POPCAST ALUMNI
-* Episode 1 - Joshua Teitelbaum
-* Episode 2 - Loris Degioanni 
-* Episode 3 - Duffie Cooley
-* Episode 4 - Jake "Kitch" Kitchener
-* Episode 5 - Alex Ellis
-* Episode 6 - Kelsey Hightower
-* Episode 7 - Gabrielle Hempel (Gabsmash)
-* Episode 8 - Stephen Augustus
-* Episode 9 - Andreas "Bodmechanic" Saltas (WEEKEND WELLNESS)
-* Episode 10 - Adam Clater
-* Episode 11 - Jim Walker
-* Episode 12 - Kareen Walsh (WEEKEND WELLNESS)
-* Episode 13 - Brian "redbeard"
-* Episode 14 - Justin Garrison (AWS) and Pawan Shankar (Sysdig)
-* Episode 15 - Alana Weinroth (WEEKEND WELLNESS)
-* LIVE STREAMANA 1 with Steven Terrana 
-* Episode 16 - Ian Coldwater
-* Episode 17 - Godfathers of Kubernetes Special (Brendan Burns)
-* Episode 18 - Godfathers of Kubernetes Special (Joe Beda and Craig McLuckie)
-* Episode 19 - Dan Bentley (TILT)
-* Episode 20 - Bryan Liles (VMware)
-* Episode 21 - Rob Szumski (Red Hat)
-* Episode 22 - Armon Dadgar and Mitchell Hashimoto (Hashicorp)
-* Episode 23 - Maya Kaczorowski (Github)
-* Episode 24 - Ahmet Alp Balkan (Google)
-* Episode 25 - Liz Fong Jones (Honeycomb.io)
-* Episode 26 - Ashesh Badani (Red Hat)
-* Episode 27 - Charity Majors (Honeycomb.io)
-* Episode 28 - Idit Levine (Solo.io)
-* Episode 29 - Chris Kranz (Sysdig / Cards against Containers)
-* Episode 30 - Priyanka Sharma(CNCF)
-* Episode 31 - Lachlan Evenson (Microsoft Azure/Olive Garden)
-* Episode 32 - Gareth Rushgrove (Snyk)
-* Episode 33 - Cornelia Davis (Weaveworks)
-* Episode 34 - Darren Shepherd (Rancher)
-* Episode 35 - Chris Kuhl (Kinvolk.io)
-* Episode 36 - Liz Rice (Aqua Security)
-* Episode 37 - Lenny Pruss (Amplify Partners)
-* Episode 38 - Chris Lentricchia (SUSE)
-
 * [Watch their shows here](http://bit.ly/3fC7sxd)
 * [Listen to their shows here](http://bit.ly/35MXfte)
+
+| Episode | Guest | Title | Watch :movie_camera: | Listen :speaker: |
+| :---:     | :---  | :--- | :---: | :---:  |
+| 1 | Joshua "Tidy" Teitelbaum | "Software and Seltzer" | [YouTube](https://youtu.be/3MB9sTL6IBI) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/software-and-seltzer) |
+| 2 | Loris Degioanni | "Open Source, Italian Food and Wine" | [YouTube](https://youtu.be/VCreK1ar2jk) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/loris-degioanni-founder-of-sysdig-open-source-italian-food-and-wine) |
+| 3 | Duffie Cooley | "Startups and Cocktails" | [YouTube](https://youtu.be/xUosmgEV_uA) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-3-startups-and-cocktails-with-duffie-coolie-vmware) |
+| 4 | Jake "Kitch" Kitchener | "Squad Goals and Bourbon" | [YouTube](https://youtu.be/dNoxLQZP2tE) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-4-squad-goals-and-bourbon-with-ibms-jake-kitch-kitchener) |
+| 5 | Alex Ellis | "Going independent and Cloud Native Open Source" | [YouTube](https://youtu.be/66mMC9w-dM4) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-5-going-freelance-and-rpi-with-alex-ellis) |
+| 6 | Gabrielle Hempel (Gabsmash) | "Cybersecurity and Nutrition" | [YouTube](https://youtu.be/llFUfe2a1h8) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-6-gabrielle-hempel-gabsmash-cybersecurity-and-nutrition) |
+| 7 | Kelsey Hightower | "Roots, Storytelling, and 90's Hip Hop" | [YouTube](https://youtu.be/mLXRFgptKYk) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/popcast-episode-7-roots-storytelling-and-90s-hip-hop-with-googles-kelsey-hightower) |
+| 8 | Stephen Augustus | "Community and Steak" | [YouTube](https://youtu.be/zTxSst5UTXQ) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-8-community-and-steak-with-stephen-augustus) |
+| 9 | Andreas "Bodmechanic" Saltas | "Weekend Wellness" | [YouTube](https://youtu.be/gYxfeREr548) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/popcast-episode-9-weekend-wellness-with-andreas-bodmechanic-saltas) |
+| 10 | Adam Clater | "Open Source in Government and Chicken Sandwiches" | [YouTube](https://youtu.be/pXfEErt6xmA) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-10-adam-clater-redhat-open-source-in-government-and-chicken-sandwiches) |
+| 11 | Jim Walker | "Being Genuine in Tech Marketing" | [YouTube](https://youtu.be/y-Z1YpAQH5E) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-11-jim-walker-cockroach-labs-being-genuine-in-tech-marketing) |
+| 12 | Kareen Walsh | "Tips for Work Life Integration during Shelter in Place" | [YouTube](https://youtu.be/_czQ_RxEetY) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-12-weekend-wellness-tips-for-work-life-integration-during-shelter-in-place-with-kareen-walsh) |
+| 13 | Brian "redbeard" Harrington | "The Legend of redbeard" | [YouTube](https://youtu.be/n3_5nVFq-yM) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-13-the-legend-of-redbeard) |
+| 14 | Pawan Shankar (Sysdig), Justin Garrison (AWS) | "DevOps Checklists, Cloud Native Inf, and Disney" | [YouTube](https://youtu.be/KGD84C0tOLc) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-14-devops-checklists-cloud-native-inf-and-disney) |
+| 15 | Alana Weinroth | "Tips to De-Stress and Relax" | [YouTube](https://youtu.be/5hUkwYIjgq8) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-15-weekend-wellness-tips-to-de-stress-and-relax-with-alana-weinroth) |
+| LS | Steven Terrana | Livestreamana | [YouTube](https://youtu.be/7XIRkbUwf30) | - |
+| 16 | Ian Coldwater | "Crafting Tech Talks and Pie" | [YouTube](https://youtu.be/OZi63Nkl2Do) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-16-crafting-talks-and-pie-with-ian-coldwater) |
+| 17 | "Godfather" Brendan Burns | "Birth of Kubernetes, Azure Kubernetes , Games and Sci-Fi" | [YouTube](https://youtu.be/EnVJ2lwaADw) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-17-games-sci-fi-birth-of-kubernetes-azure-kubernetes-with-godfather-brendan-burns) |
+| 18 | "Godfather" Joe Beda and "Godfather" Craig McLuckie | "Birth of Kubernetes, Heptio, VMware Tanzu and Gadgets" | [YouTube](https://youtu.be/BdziTqhrGeo) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-18-gadgets-the-birth-of-kubernetes-heptio-and-vmware-tanzu-with-godfathers-beda-and-mcluckie) |
+| 19 | Dan Bentley (Tilt) | "Building Better Development Tools and Synthesis" | [YouTube](https://youtu.be/rcVjocm7phg) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-19-tilts-dan-bentley-talks-making-developers-more-productive-and-synthesis) |
+| 20 | Bryan Liles (VMware) | "BlackLivesMatter!" | [YouTube](https://youtu.be/SEy6TOd1g70) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-20-bryan-liles) |
+| 21 | Rob Szumski | "Red Hat Openshift and Woodworking" | [YouTube](https://youtu.be/ulxaiDAc8Lw) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-21-rob-szumski-talks-red-hat-openshift-and-woodworking) |
+| 22 | Armon Dadgar and Mitchell Hashimoto (Hashicorp) | "Principals, Products, and Principles" | [YouTube](https://youtu.be/5dJaVWutsh0) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-22-principals-products-and-principles-at-hashicorp-armon-dadgar-and-mitchell-hashimoto) |
+| 23 | Maya Kaczorowski (Github) | "Software Supply Chain Security and Puzzles" | [YouTube](https://youtu.be/OoOnaXTRbEs) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-23-githubs-maya-kaczorowski-on-software-supply-chain-security-and-puzzles) |
+| 24 | Ahmet Alp Balkan | "Google Open Source Tools and Doner Kebabs" | [YouTube](https://youtu.be/LAzhp1zF5jA) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-24-google-open-source-tools-and-kebabs-with-ahmet-alp-balkan) |
+| 25 | Liz Fong Jones (Honeycomb.io) | "Observability and MMO's" | [YouTube](https://youtu.be/E3fIrnC7r9Q) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-25) |
+| 26 | Ashesh Badani | "Red Hat's Cloud Platforms and Binge Watching" | [YouTube](https://youtu.be/57Rwbode09M) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-26-red-hats-cloud-platforms-and-binge-watching-with-ashesh-badani) |
+| 27 | Charity Majors | "The Engineer/Manager Pendulum and Honeycomb.io" | [YouTube](https://youtu.be/5Vle0MBRUtw) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-27-the-engineer-manager-pendulum-and-honeycombio-with-charity-majors) |
+| 28 | Idit Levine (Solo.io) | "Service Mess? Service Mesh Mastery" | [YouTube](https://youtu.be/0CkY5kpj9gY) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-28-service-mess-service-mesh-mastery-with-idit-levine-soloio) |
+| 29 | Chris Kranz (Sysdig) | "Cards Against Containers Co-Creator (Sysdig)" | [YouTube](https://youtu.be/5FBSMNYb9aI) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-29-cards-against-containers-co-creator-sysdigs-chris-kranz) |
+| 30 | Priyanka Sharma | "Meet the New CNCF Boss!" | [YouTube](https://youtu.be/bUJeCMfNDzc) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-30-meet-the-new-boss-cncf-gm-priyanka-sharma) |
+| 31 | Lachlan Evenson (MS Azure) | "How to hunt Kubernetes, Crocodiles, and Breadsticks" | [YouTube](https://youtu.be/_8M29rTF3vc) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-31-how-to-hunt-kubernetes-crocodiles-and-breadsticks-with-lachlan-evenson) |
+| 32 | Gareth Rushgrove (Snyk) | "Developer First Kubernetes Security" | [YouTube](https://youtu.be/ZaE5h3mmD6U) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-32-how-to-put-the-developer-first-in-kubernetes-security-with-snyks-gareth-rushgrove) |
+| 33 | Cornelia Davis (Weaveworks) | "How to Weave a Cloud Native Pattern" | [YouTube](https://youtu.be/ZLyZWIgavvg) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-33-how-to-weave-a-cloud-native-pattern-with-weaveworks-cornelia-davis) |
+| 34 | Darren Shepherd (Rancher) | "How did Rancher and K3s happen" | [YouTube](https://youtu.be/hkwDGXvOoEQ) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-34-how-did-rancher-and-k3s-happen-with-darren-shepard) |
+| 35 | Chris Kuhl (Kinvolk.io) | "Flatcars, Lokomotives, and Kubernetes Linux Mastery" | [YouTube](https://youtu.be/RUWkfdV0vmI) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-35-flatcars-lokomotives-and-kubernetes-linux-mastery-with-kinvolks-chris-kuhl) |
+| 36 | Liz Rice (Aqua Security) | "Container and Kubernetes Security and Biking" | [YouTube](https://youtu.be/hXZaJQzlbgw) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-36-container-and-kubernetes-security-with-liz-rice) |
+| 37 | Lenny Pruss (Amplify Partners) | "Investing into the Next Wave of Awesome" | [YouTube](https://youtu.be/sOo_gkBBtxQ) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-37-investing-into-the-next-wave-of-awesome-with-lenny-pruss) |
+| 38 | Chris Lentricchia (SUSE) | "Technical Difficulties: Mental Health Issues in Tech" | [YouTube](https://youtu.be/6ClKfnp0F4A) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-38-technical-difficulties-mental-health-issues-in-tech-with-chris-lentricchia) |
+| 39 | Paul Burt | "Etcd, Distributed Systems, and Comic Books" | [YouTube](https://youtu.be/Hn7icoNb8WM) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-39-etcd-distributed-systems-and-comic-books-with-paul-burt) |
+| 40 | Thomas Graf (Cilium) | "CNI and eBPF in Kubernetes" | [YouTube](https://youtu.be/XezvY056PJQ) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode40-cni-and-ebpf-in-kubernetes-with-cilliums-thomas-graf) |
+| 41 | Kat Cosgrove (JFrog) | "Gatekeeping and Horror Movies :jack_o_lantern:" | [YouTube](https://youtu.be/ASqfIPDnXgg) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-41-halloween-special-gatekeeping-and-horror-movies-with-jfrogs-kat-cosgrove) |
+| 42 | Chris Short, Marky Jackson | "Veterans Day Special :us:" | [YouTube](https://youtu.be/EEjiYVYdwwk) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-42-veterans-day-special-with-red-hats-chris-short-and-marky-jackson) |
+| 43 | Tim Hockin | "The Real Hockinstory of Kubernetes... and Star Wars" | [YouTube](https://youtu.be/jVeXw-AYe7o) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-43-the-real-hockinstory-of-kubernetes-and-star-wars) |
+| 44 | Cheryl Hung | "CNCF Ecosystem and Movie Star" | [YouTube](https://youtu.be/wwlxC1Zc9-o) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-44-cncf-ecosystem-and-movie-star-cheryl-hung) |
+| 45 | Clayton Coleman | "The Godfather of Red Hat Openshift" | [YouTube](https://youtu.be/GK5y-efj-co) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-45-the-godfather-of-red-hat-openshift-clayton-coleman) |
+| 46 | Spencer Kimball (Cockroach Labs) | "A Database that Survives Anything" | [YouTube](https://youtu.be/H-R8qgXxFb0) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-46-a-database-that-survives-anything-with-cockroach-labs-spencer-kimball) |
+| 47 | Knox Anderson (Sysdig) | "Zero Trust Security and Cookies" | [YouTube](https://youtu.be/QF18Sxx1UsA) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-47-zero-trust-security-and-cookies-with-sysdigs-knox-anderson) |
