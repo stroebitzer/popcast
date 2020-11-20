@@ -1,4 +1,4 @@
-### AMAZING POPCAST ALUMNI
+### AMAZING POPCAST ALUMNI LIKE AND SUBSCRIBE!
 * [Watch their shows here](http://bit.ly/3fC7sxd)
 * [Listen to their shows here](http://bit.ly/35MXfte)
 
