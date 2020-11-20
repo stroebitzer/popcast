@@ -9,4 +9,4 @@
 * [Andrew Randall](https://github.com/ahrkrak)
 * [Walid Shaari](https://github.com/walidshaari)
 * [Erick De Carty](https://github.com/ebcarty)
-* [Cody Crudgington](https://github.com/thecrudge>
+* [Cody Crudgington](https://github.com/thecrudge)
