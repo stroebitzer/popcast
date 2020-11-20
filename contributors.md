@@ -8,3 +8,4 @@
 * [Benedetto Lo Giudice](https://github.com/bennythejudge)
 * [Andrew Randall](https://github.com/ahrkrak)
 * [Walid Shaari](https://github.com/walidshaari)
+* [Erick De Carty]](https://github.com/ebcarty)
