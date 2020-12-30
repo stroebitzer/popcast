@@ -5,7 +5,6 @@
 * Swarna Podila
 * Silvia Botros
 * Nicole Forsgren
-* Corey Quinn
 * Alice Goldfuss
 * Bridget Kromhout
 * @jaicesd
