@@ -7,7 +7,7 @@ The POPCAST's mission is to connect technical and thought leaders with the commu
 
 ## SHOW (Follow and Subscribe to our Youtube channel / Twitter!)
 * Watch  (YouTube): https://www.youtube.com/c/thepopcastpop
-* Listen (Apple PODCAST and others): http://popcast-d9f7b6dc.simplecast.com
+* Listen (Apple PODCAST and others): https://popcast-d9f7b6dc.simplecast.com/
 * Follow us on (Twitter): https://twitter.com/PopcastPop
 * Follow us on (Linkedin): https://www.linkedin.com/company/the-popcast-with-danpop
 
