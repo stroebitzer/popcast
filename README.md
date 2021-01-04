@@ -36,6 +36,7 @@ Plans Include
   * Annual
 
 # Current (Past) Sponsors
+* raft
 * Cockroach Labs
 * Solo.io
 * Kinvolk
