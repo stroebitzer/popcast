@@ -42,3 +42,4 @@
 * David McKay        [@rawkode](www.twitter.com/rawkode)
 * Diane Mueller      [@pythondj](www.twitter.com/pythondj)
 * Forrest Brazeal    [@forrestbrazeal](www.twitter.com/forrestbrazeal)
+* Sebastian Scheele  [@sscheele](https://twitter.com/sscheele)
